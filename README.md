@@ -1,2 +1,2 @@
 # Merge-Sort
-simple code of merge sort
+simple code of merge sort.
